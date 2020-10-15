@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "amplifytrainingbacke71647c92": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
